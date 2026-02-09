@@ -1,6 +1,6 @@
 # X1 XEN
 
-Tap-to-claim community token on the X1 network.
+Tap-to-claim community token on the X1 Blockchain.
 
 ## Overview
 X1 XEN is the XEN token on the X1 blockchain. It is a tap-to-claim community token with a fixed supply and fully on-chain distribution.
@@ -32,7 +32,7 @@ Each tap includes a small creator fee in XNT.
 This fee is used to support development, infrastructure, and maintenance of the protocol.
 
 ## Disclaimer
-X1 XEN is experimental software.  
+XEN is a community token on the X1 blockchain.  
 It is a community token with no guarantees of value, profit, or future performance.  
 Use at your own risk.
 
