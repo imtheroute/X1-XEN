@@ -21,7 +21,7 @@ The supply is fixed and cannot be increased.
 
 ## Contract
 Mint:
-DTE5wZWZ5vv8A3ErkMzsC6kPVAYftv49ZGgqMj7Mx3DW
+A3YKD7vkBjsxKQEWMRLbTkstWyjLENudgAzt2kiumTHR
 
 
 ## Website
