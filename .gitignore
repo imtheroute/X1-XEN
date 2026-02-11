@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anchor / Solana
 .anchor/
 target/
@@ -20,3 +21,10 @@ dist/
 # NEVER COMMIT KEYS
 **/*keypair*.json
 *.json
+=======
+target/
+node_modules/
+dist/
+.DS_Store
+.env
+>>>>>>> 4ef77a566eb28a40905c2775c45c222e50e1ab7a
