@@ -31,9 +31,15 @@ https://x1xen.xyz
 Each tap includes a small creator fee in XNT.  
 This fee is used to support development, infrastructure, and maintenance of the protocol.
 
+## Liquidity
+Initial liquidity is provided from the ecosystem treasury
+to establish the starting market price.
+
+The liquidity pool pairs XEN with the native XNT token.
+Additional liquidity may be added over time as the ecosystem grows.
+
 ## Disclaimer
 XEN is a community token on the X1 blockchain.  
 It is a community token with no guarantees of value, profit, or future performance.  
 Use at your own risk.
-
 
