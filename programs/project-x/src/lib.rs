@@ -4,7 +4,6 @@ use anchor_lang::prelude::*;
 use anchor_spl::token_interface::{
     self, Mint, TokenAccount, TokenInterface, TransferChecked,
 };
-
 use solana_security_txt::security_txt;  // 👈 ADD THIS
 
 declare_id!("kTTgNQjhppQQXN2bZ2pFfT7tGN2NHEMgidxrfcs6aRs");
