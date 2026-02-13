@@ -5,7 +5,20 @@ use anchor_spl::token_interface::{
     self, Mint, TokenAccount, TokenInterface, TransferChecked,
 };
 
+use solana_security_txt::security_txt;  // 👈 ADD THIS
+
 declare_id!("kTTgNQjhppQQXN2bZ2pFfT7tGN2NHEMgidxrfcs6aRs");
+
+// 👇 ADD SECURITY.TXT HERE (after declare_id, before the next use)
+security_txt! {
+    name: "X1 XEN",
+    project_url: "https://x1xen.xyz",
+    contacts: "email:imtheroute@x1xen.xyz",
+    policy: "https://x1xen.xyz/security",
+    source_code: "https://github.com/imtheroute/X1-XEN",
+    auditors: "None",
+    expiry: "2027-01-01T00:00:00.000Z"
+}
 
 use anchor_spl::associated_token::get_associated_token_address;
 
