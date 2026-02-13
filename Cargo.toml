@@ -8,6 +8,7 @@ resolver = "2"
 anchor-lang = "0.31.1"
 anchor-spl = "0.31.1"
 blake3 = "=1.5.5"
+solana-security-txt = "1.1.2"   # ← ADD THIS
 
 [profile.release]
 overflow-checks = true
