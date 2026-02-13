@@ -27,7 +27,7 @@ custom-panic = []
 blake3 = { workspace = true }
 anchor-lang = { workspace = true, features = ["init-if-needed"] }
 anchor-spl  = { workspace = true }
-
+solana-security-txt = { workspace = true }   # ← ADD THIS
 
 [lints.rust]
 unexpected_cfgs = { level = "warn", check-cfg = ['cfg(target_os, values("solana"))'] }
