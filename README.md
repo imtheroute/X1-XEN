@@ -88,7 +88,7 @@ Use at your own risk.
 
 ## Verified Build
 
-This program has been verified using solana-verify.
+This program has been verified.
 
 Program ID:
 kTTgNQjhppQQXN2bZ2pFfT7tGN2NHEMgidxrfcs6aRs
