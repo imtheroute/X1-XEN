@@ -1,45 +1,88 @@
-# X1 XEN
+\# X1 XEN
+
+
 
 Tap-to-claim community token on the X1 Mainnet.
 
-## Overview
+
+
+\## Overview
+
 X1 XEN is the XEN token on the X1 blockchain. It is a tap-to-claim community token with a fixed supply and fully on-chain distribution.
 
-Each tap:
-- Transfers XEN from the vault
-- Sends a small creator fee in XNT
-- Updates the leaderboard
 
-## Supply
+
+Each tap:
+
+\- Transfers XEN from the vault
+
+\- Sends a small creator fee in XNT
+
+\- Updates the leaderboard
+
+
+
+\## Supply
+
 Total supply: 1,000,000,000 XEN
 
 
-- 800M — public tap-to-claim vault
-- 200M — ecosystem treasury
+
+
+
+\- 800M — public tap-to-claim vault
+
+\- 200M — ecosystem treasury
+
+
 
 The supply is fixed and cannot be increased.
 
-## Contract
+
+
+\## Contract
+
 Mint:
+
 A3YKD7vkBjsxKQEWMRLbTkstWyjLENudgAzt2kiumTHR
 
 
-## Website
+
+
+
+\## Website
+
 https://x1xen.xyz
 
-## Creator Fee
+
+
+\## Creator Fee
+
 Each tap includes a small creator fee in XNT.  
+
 This fee is used to support development, infrastructure, and maintenance of the protocol.
 
-## Liquidity
+
+
+\## Liquidity
+
 Initial liquidity is provided from the ecosystem treasury
+
 to establish the starting market price.
 
+
+
 The liquidity pool pairs XEN with the native XNT token.
+
 Additional liquidity may be added over time as the ecosystem grows.
 
-## Disclaimer
+
+
+\## Disclaimer
+
 XEN is a community token on the X1 blockchain.  
+
 It is a community token with no guarantees of value, profit, or future performance.  
+
 Use at your own risk.
 
