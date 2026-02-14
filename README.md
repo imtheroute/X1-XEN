@@ -86,3 +86,15 @@ It is a community token with no guarantees of value, profit, or future performan
 
 Use at your own risk.
 
+## Verified Build
+
+This program has been verified using solana-verify.
+
+Program ID:
+kTTgNQjhppQQXN2bZ2pFfT7tGN2NHEMgidxrfcs6aRs
+
+Commit:
+a636b8c
+
+Result:
+Program hash matches the on-chain binary.
